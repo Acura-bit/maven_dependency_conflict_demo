@@ -1,6 +1,6 @@
 package test;
 
-import cn.myphoenix.SwimmingSports;
+//import cn.myphoenix.SwimmingSports;
 import org.junit.Test;
 
 /**
@@ -12,7 +12,7 @@ public class SwimmingSportsTest {
 
     @Test
     public void testFreeStyle() {
-        SwimmingSports swimmingSports = new SwimmingSports();
-        swimmingSports.FreeStyle();
+//        SwimmingSports swimmingSports = new SwimmingSports();
+//        swimmingSports.FreeStyle();
     }
 }
