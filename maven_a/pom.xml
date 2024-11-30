@@ -24,6 +24,12 @@
             <groupId>cn.myphoenix</groupId>
             <artifactId>maven_d</artifactId>
             <version>1.0.0</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>cn.myphoenix</groupId>
+                    <artifactId>maven_x</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
